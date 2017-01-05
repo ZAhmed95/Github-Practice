@@ -11,6 +11,15 @@ body{
   background-color: lightGray;
 }
 
+.menuItems{
+  float: right;
+}
+
+.menuItems ul li{
+  display: inline-block;
+  padding: 4px 10px;
+}
+
 .window{
   width: 400px;
   height: 400px;
